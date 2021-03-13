@@ -1,0 +1,24 @@
+@import "reset";
+@import "responsive";
+
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  background: black url("./images/stars.png") repeat top center;
+  color: white;
+  font-size: 20px;
+}
+
+.App {
+  width: 768px;
+  margin: auto;
+  @include responsive(960px) {
+    width: 100%;
+    padding: 0 15px;
+  }
+}
+
+@import "./effects/Twinkling";
+@import "./components/About";
+@import "./components/Filter";
+@import "./components/Projects";
+@import "./components/Contact-Me";
