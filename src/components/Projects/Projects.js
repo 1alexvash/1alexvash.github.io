@@ -11,6 +11,8 @@ const Projects = ({ filter }) => {
     );
     if (matchedTechnologies.every((tech) => tech === true)) {
       return project;
+    } else {
+      return;
     }
   });
 
