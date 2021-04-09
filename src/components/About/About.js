@@ -14,6 +14,12 @@ const About = () => {
     <div className="About">
       <section className="me">
         <img src="images/me.jpg" alt="alexander" />
+        <a
+          href="https://cv.djinni.co/bf/59d5791805912b9810a4f20d2b1de5/Resume_Alexander_Vashchuk.pdf"
+          className="download-resume"
+        >
+          Download Resume
+        </a>
       </section>
       <section className="info">
         <p>Hi There!</p>

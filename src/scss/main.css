@@ -91,6 +91,7 @@ body {
 
 .About .me {
   width: 25%;
+  text-align: center;
 }
 
 @media (max-width: 640px) {
@@ -102,6 +103,25 @@ body {
 .About .me img {
   width: 100%;
   border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.About .me .download-resume {
+  cursor: pointer;
+  font-size: 16px;
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 8px 20px;
+  background: black;
+  color: white;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.About .me .download-resume:hover {
+  color: black;
+  background: white;
 }
 
 .About .info {

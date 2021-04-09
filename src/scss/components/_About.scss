@@ -9,12 +9,29 @@
   }
   .me {
     width: 25%;
+    text-align: center;
     @include responsive(640px) {
       width: 100%;
     }
     img {
       width: 100%;
       border-radius: 50%;
+      margin-bottom: 15px;
+    }
+    .download-resume {
+      cursor: pointer;
+      font-size: 16px;
+      border: 1px solid white;
+      border-radius: 8px;
+      padding: 8px 20px;
+      background: black;
+      color: white;
+      transition: 0.3s;
+      text-decoration: none;
+      &:hover {
+        color: black;
+        background: white;
+      }
     }
   }
   .info {
