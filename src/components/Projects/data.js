@@ -1,5 +1,12 @@
 export default [
   {
+    name: "Cards",
+    technologies: ["HTML", "CSS", "JavaScript", "React.js"],
+    logo: "images/projects/Cards.png",
+    github: "https://github.com/1alexvash/Cards",
+    live: "https://1alexvash.github.io/Cards/",
+  },
+  {
     name: "Idioms",
     technologies: ["HTML", "CSS", "JavaScript", "React.js"],
     logo: "images/projects/Idioms.png",
