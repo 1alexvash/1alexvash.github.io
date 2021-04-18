@@ -1,5 +1,12 @@
 export default [
   {
+    name: "MoodTracker",
+    technologies: ["HTML", "CSS", "JavaScript", "React.js"],
+    logo: "images/projects/MoodTracker.png",
+    github: "https://github.com/1alexvash/MoodTracker",
+    live: "https://1alexvash.github.io/MoodTracker/",
+  },
+  {
     name: "Cards",
     technologies: ["HTML", "CSS", "JavaScript", "React.js"],
     logo: "images/projects/Cards.png",
