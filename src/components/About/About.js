@@ -15,7 +15,7 @@ const About = () => {
       <section className="me">
         <img src="images/me.jpg" alt="alexander" />
         <a
-          href="https://cv.djinni.co/82/04aae1fdc812db4d4c872bdb83c10a/Resume_Alexander_Vashchuk.pdf"
+          href="https://1alexvash.github.io/files/Resume_Alexander_Vashchuk.pdf"
           className="download-resume"
         >
           Download Resume
