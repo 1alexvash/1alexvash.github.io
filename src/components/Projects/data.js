@@ -1,5 +1,12 @@
 export default [
   {
+    name: "EisenhowerMatrix",
+    technologies: ["HTML", "CSS", "JavaScript", "React.js"],
+    logo: "images/projects/EisenhowerMatrix.png",
+    github: "https://github.com/1alexvash/EisenhowerMatrix",
+    live: "https://1alexvash.github.io/EisenhowerMatrix/",
+  },
+  {
     name: "MoodTracker",
     technologies: ["HTML", "CSS", "JavaScript", "React.js"],
     logo: "images/projects/MoodTracker.png",
