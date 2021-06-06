@@ -1,7 +1,7 @@
 export default [
   {
     name: "EisenhowerMatrix",
-    technologies: ["HTML", "CSS", "JavaScript", "React.js"],
+    technologies: ["HTML", "CSS", "JavaScript", "React.js", "Redux"],
     logo: "images/projects/EisenhowerMatrix.png",
     github: "https://github.com/1alexvash/EisenhowerMatrix",
     live: "https://1alexvash.github.io/EisenhowerMatrix/",
@@ -15,7 +15,7 @@ export default [
   },
   {
     name: "Cards",
-    technologies: ["HTML", "CSS", "JavaScript", "React.js"],
+    technologies: ["HTML", "CSS", "JavaScript", "React.js", "Redux"],
     logo: "images/projects/Cards.png",
     github: "https://github.com/1alexvash/Cards",
     live: "https://1alexvash.github.io/Cards/",
