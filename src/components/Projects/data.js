@@ -85,14 +85,14 @@ export default [
   },
   {
     name: "Millionaire",
-    technologies: ["HTML", "CSS", "JavaScript"],
+    technologies: ["HTML", "CSS", "JavaScript", "React.js"],
     logo: "images/projects/Millionaire.png",
     github: "https://github.com/1alexvash/Millionaire",
     live: "https://1alexvash.github.io/Millionaire/",
   },
   {
     name: "Words",
-    technologies: ["HTML", "CSS", "JavaScript"],
+    technologies: ["HTML", "CSS", "JavaScript", "React.js"],
     logo: "images/projects/Words.png",
     github: "https://github.com/1alexvash/Words",
     live: "https://1alexvash.github.io/Words/",
